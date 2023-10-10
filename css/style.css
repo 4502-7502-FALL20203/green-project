@@ -1,5 +1,76 @@
+head {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: rgb(254, 249, 255);
+}
+
 
 body {
 	display: flex;
 	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	background-color: rgb(254, 249, 255);
 }
+
+nav {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 15px;
+	color: rgb(105, 89, 88)
+	margin: auto;	
+}
+
+h1 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Yeseva One', serif;
+	font-size: 50px;
+	color: rgb(31, 0, 41);
+}
+
+h2 {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;	
+	font-family: 'Playfair Display', serif;
+	font-size: 30px;
+	color: rgb(216, 167, 202)
+}
+
+.mailing-link {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.listings {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Playfair Display', serif;
+	font-size: 25px;
+	color: rgb(170, 161, 200)
+}
+
+ul {
+	font-family: 'Montserrat', sans-serif;
+	font-size: 20px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	color: rgb(105, 89, 88)
+	margin: auto;
+
+}
+
+font-family: 'Montserrat', sans-serif;
+font-family: 'Playfair Display', serif;
+font-family: 'Yeseva One', serif;
