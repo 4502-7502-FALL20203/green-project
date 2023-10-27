@@ -48,7 +48,7 @@ h2 {
 	justify-content: center;
 	align-items: center;
 	flex-direction: column;	
-	font-family: 'Playfair Display', serif;
+	font-family: 'Playfair Display', serif !important; 
 	font-size: 30px;
 	color: rgb(221,209,188);
 	background-color: rgb(20,79,85);
@@ -101,6 +101,30 @@ a {
 
 }
 
+h2 a {
+display: flex;
+	justify-content: center;
+	font-family: 'Playfair Display', serif !important;
+	font-size: 40px;
+	color: rgb(221,209,188);
+	background-color: rgb(79,33,33);
+	padding: 20px;
+	margin-left: 280px;
+	margin-right: 280px;
+
+}
+
+h2 a: visited {
+	display: flex;
+	justify-content: center;
+	font-family: 'Playfair Display', serif !important;
+	font-size: 40px;
+	color: rgb(221,209,188);
+	background-color: rgb(79,33,33);
+	padding: 20px;
+	margin-left: 280px;
+	margin-right: 280px;
+}
 ul li a: visited {
 
 	text-decoration: none !important;
@@ -153,7 +177,7 @@ p {
 .h2list {
 	display: flex;
 	justify-content: center;
-	font-family: 'Playfair Display', serif;
+	font-family: 'Playfair Display', serif !important;
 	font-size: 40px;
 	color: rgb(221,209,188);
 	background-color: rgb(79,33,33);
@@ -325,6 +349,19 @@ p {
 .profilepic {
 border-color: rgb(221,209,188);
 	border-width: 10px;
+}
+
+.h2location {
+display: flex;
+	justify-content: center;
+	font-family: 'Playfair Display', serif !important;
+	font-size: 40px;
+	color: rgb(221,209,188);
+	background-color: rgb(79,33,33);
+	padding: 20px;
+	margin-left: 280px;
+	margin-right: 280px;
+
 }
 
 .footer {
