@@ -401,6 +401,13 @@ button {
   border-radius: 5px;
 }
 
+button_next {  }
+
+button_previous {  }
+
+.stepper {  }
+
+
 .footer {
 	font-family: 'Montserrat', sans-serif;
 	color: rgb(12,234,217);
