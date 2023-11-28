@@ -372,8 +372,6 @@ display: flex;
 }
 
 
-.gallery-image { 
-	}
 
 
 .button_holder {
@@ -404,9 +402,6 @@ button {
 
 }
 
-.gallery-image img {
-	width: 100%;
-}
 
 .hideThis {
 	display: none;
